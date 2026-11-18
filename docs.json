@@ -1,1 +1,20 @@
-
+{
+  "$schema": "https://mintlify.com/docs.json",
+  "theme": "mint",
+  "name": "Seminole Premier Dental Knowledge Base",
+  "colors": {
+    "primary": "#0B6BB3",
+    "light": "#3B9CD9",
+    "dark": "#0B6BB3"
+  },
+  "navigation": {
+    "groups": [
+      {
+        "group": "Home",
+        "pages": [
+          "index"
+        ]
+      }
+    ]
+  }
+}
